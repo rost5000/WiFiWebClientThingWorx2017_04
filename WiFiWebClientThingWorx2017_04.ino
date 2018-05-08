@@ -21,7 +21,7 @@ int status = WL_IDLE_STATUS;
 // Параметры IoT сервера
 char iot_server[] = "ptc.k36.org";
 IPAddress iot_address(52, 3, 52, 231);
-char appKey[] = "2ab91b18-2bd2-4ddf-b4e5-e7e25749274e";
+char appKey[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 char thingName[] = "Test_things_rost5000";
 char serviceName[] = "MyTestService";
 
